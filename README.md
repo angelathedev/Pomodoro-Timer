@@ -4,6 +4,10 @@
 This Pomodoro timer was created as a useful tool for college students to use during study time. The Pomodoro technique is a time-management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for tomato, after the tomato-shaped kitchen timer that Cirillo used as a university student.
 
 ## Homepage
+![Pomodoro Home](PomodoroHome.png)
+
+## Active Timer
+![Active Timer](ActiveTimer.png)
 
 
 ## Technology
